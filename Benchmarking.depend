@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1590961628 source:/home/nikoletad/Desktop/client/Benchmarking/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+	<string.h>
+	<float.h>
+
